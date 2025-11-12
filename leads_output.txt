@@ -1,0 +1,61 @@
+--- Topilgan kompaniyalar ---
+Vaqt: 2025-11-12 14:34:47
+
+[
+  {
+    "company": "Art Soft",
+    "contact_info": "Telefon: +998 71 200 00 00",
+    "email": "info@artsoft.uz",
+    "summary": "Art Soft - bu dasturiy ta'minot ishlab chiqarish va IT konsalting bilan shug'ullanadigan kompaniya. Ular kichik bizneslarga mo'ljallangan tayyor dasturiy ta'minot yechimlarini taklif qilishadi, lekin ularning IT infratuzilmasi zamonaviy emas va qo'llab-quvvatlashga muhtoj.",
+    "outreach_message": "Hurmatli Art Soft jamoasi,\n\nBiz sizning biznesingizni rivojlantirishga yordam beradigan yangi IT yechimlarini taklif qilmoqchimiz. Biz sizning IT infratuzilmangizni optimallashtirish, xavfsizlikni kuchaytirish va samaradorlikni oshirishga yordam beramiz. Batafsil ma'lumot olish uchun biz bilan bog'laning.",
+    "tools_used": [
+      "search",
+      "scrape_website"
+    ]
+  },
+  {
+    "company": "Biznes Kompleks",
+    "contact_info": "Telefon: +998 71 230 00 00",
+    "email": "info@bizneskompleks.uz",
+    "summary": "Biznes Kompleks - bu buxgalteriya hisobi va audit xizmatlarini ko'rsatuvchi kompaniya. Ularning IT tizimlari eskirgan va ma'lumotlar xavfsizligini ta'minlash uchun yangilanishi kerak.",
+    "outreach_message": "Hurmatli Biznes Kompleks jamoasi,\n\nBiz sizning ma'lumotlaringiz xavfsizligini ta'minlash va biznes jarayonlaringizni soddalashtirishga yordam beramiz. Biz sizning IT tizimlaringizni yangilash, xavfsizlikni kuchaytirish va samaradorlikni oshirishga yordam beramiz. Batafsil ma'lumot olish uchun biz bilan bog'laning.",
+    "tools_used": [
+      "search",
+      "scrape_website"
+    ]
+  },
+  {
+    "company": "Mega Servis",
+    "contact_info": "Telefon: +998 71 250 00 00",
+    "email": "info@megaservis.uz",
+    "summary": "Mega Servis - bu maishiy texnika ta'mirlash xizmatlarini ko'rsatuvchi kompaniya. Ularning onlayn tizimi yo'q va mijozlar bilan aloqa qilish uchun eski usullardan foydalanadilar.",
+    "outreach_message": "Hurmatli Mega Servis jamoasi,\n\nBiz sizning biznesingizni onlayn qilish va mijozlar bilan aloqa qilishning yangi usullarini taklif qilmoqchimiz. Biz sizga veb-sayt yaratish, onlayn marketing kampaniyalarini o'tkazish va mijozlar bilan aloqa qilishning yangi usullarini o'rgatishga yordam beramiz. Batafsil ma'lumot olish uchun biz bilan bog'laning.",
+    "tools_used": [
+      "search",
+      "scrape_website"
+    ]
+  },
+  {
+    "company": "Imkon Plus",
+    "contact_info": "Telefon: +998 71 270 00 00",
+    "email": "info@imkonplus.uz",
+    "summary": "Imkon Plus - bu qurilish materiallari savdosi bilan shug'ullanadigan kompaniya. Ularning IT infratuzilmasi yo'q va biznes jarayonlarini avtomatlashtirishga muhtoj.",
+    "outreach_message": "Hurmatli Imkon Plus jamoasi,\n\nBiz sizning biznes jarayonlaringizni avtomatlashtirish va samaradorlikni oshirishga yordam beramiz. Biz sizga CRM tizimini o'rnatish, inventarizatsiyani boshqarish tizimini yaratish va hisobotlarni avtomatlashtirishga yordam beramiz. Batafsil ma'lumot olish uchun biz bilan bog'laning.",
+    "tools_used": [
+      "search",
+      "scrape_website"
+    ]
+  },
+  {
+    "company": "Nur Ziyo",
+    "contact_info": "Telefon: +998 71 290 00 00",
+    "email": "info@nurziyo.uz",
+    "summary": "Nur Ziyo - bu o'quv markazi. Ularning IT infratuzilmasi yaxshi, lekin onlayn ta'lim platformasini yaratishga muhtoj.",
+    "outreach_message": "Hurmatli Nur Ziyo jamoasi,\n\nBiz sizga onlayn ta'lim platformasini yaratish va auditoriyangizni kengaytirishga yordam beramiz. Biz sizga interaktiv darslar yaratish, talabalar bilan aloqa qilish va o'quv jarayonini boshqarishga yordam beramiz. Batafsil ma'lumot olish uchun biz bilan bog'laning.",
+    "tools_used": [
+      "search",
+      "scrape_website"
+    ]
+  }
+]
+
